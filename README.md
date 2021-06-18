@@ -22,6 +22,6 @@ Standalone GUI:
 
 # Running
 
-The jupyter notebook can be run as is, by opening it in jupyter. to run the standalone GUI enter in a terminal
+The jupyter notebook can be run as is, by opening it in jupyter. To run the standalone GUI enter in a terminal
 
 python3 -i numerics_interface.py
