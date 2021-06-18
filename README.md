@@ -1,6 +1,6 @@
 # boxcar-thermoelectrics
 
-The python code can be run either thorough a Jupyter notebook (Jupyter_interface.ipynb  +  numerics_boxcar.py), or through the standalone GUI, which is my recommendation (numerics_interface.py)
+The python code can be run either thorough a Jupyter notebook (Jupyter_interface.ipynb  +  numerics_boxcar.py), or through the standalone GUI, which is uor recommendation (numerics_interface.py)
 
 # Requirements
 
